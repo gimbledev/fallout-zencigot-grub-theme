@@ -1,8 +1,8 @@
-## Fallout GRUB theme
+## Fallout ZENCIGOT GRUB theme
 
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Italian, Korean, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
-![](https://i.imgur.com/7LUYwTn.gif)
+![](https://i.ibb.co/TrJYF0N/20230617-133026.jpg)
 
 ---
 
